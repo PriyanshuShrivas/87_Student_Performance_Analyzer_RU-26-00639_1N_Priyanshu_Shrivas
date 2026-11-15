@@ -1,4 +1,3 @@
-
 """Main entry point for Student Performance Analyzer."""
 
 from pathlib import Path
