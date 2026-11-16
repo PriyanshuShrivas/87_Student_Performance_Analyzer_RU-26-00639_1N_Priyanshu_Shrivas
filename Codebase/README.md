@@ -129,5 +129,7 @@ The application generates two graphical reports in the `reports/` directory:
 - `student_percentage_histogram.png` – Displays the distribution of student percentages.
 
 ## Author
+Priyanshu Shrivas 
+CSE Undergrad 
 
 Developed as a Python academic project to demonstrate data handling, data analysis, input validation and visualization.
